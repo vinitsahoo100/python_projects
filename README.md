@@ -1,2 +1,3 @@
-# python_projects
-here are all my python project created by me
+# multiplication tables
+
+this program print multiplication tables for you of any number entered.
