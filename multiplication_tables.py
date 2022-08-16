@@ -1,9 +1,8 @@
 print("               Tables          ")
-n = int(input("enter your number: "))
-m=n
-while n <= (m*10):
-     print(n)
-     n= n+m
+num = int(input("enter your number: "))
+for i in range (1 , 11):
+
+     print(num ,'X' , i ,'=' , num*i)
      
     
      
